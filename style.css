@@ -17,7 +17,7 @@ body{
     padding: 30px;
     border-radius: 8px;
     text-align: center;
-    width: 350px;
+    width: 400px;
 }
 
 #count {
@@ -31,3 +31,16 @@ body{
     font-size: 1rem;
     cursor: pointer;
 }
+
+.positive {
+    color: green;
+}
+
+.zero {
+    color: black;
+}
+
+.negative {
+    color: red;
+}
+
